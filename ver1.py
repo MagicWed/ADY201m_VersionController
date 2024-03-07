@@ -6,3 +6,8 @@ def getEvenNum(x):
 def convertStringtoTitle(string):
   return string.title()
 
+def abc():
+      return
+
+def defend():
+      return
